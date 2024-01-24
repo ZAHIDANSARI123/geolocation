@@ -1,0 +1,12 @@
+div geo-btn {
+    display: block;
+    margin: auto;
+  }
+  
+  /* Center the entire page */
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* This ensures the entire page height is covered */
+  }
